@@ -1,0 +1,81 @@
+{
+  "name": "Ape Escape (Europe)",
+  "system": "psx",
+  "file": "ape-escape-europe.zip",
+  "size": 138234542,
+  "md5": "b33a2501b5ff3fd7709de1df303139a1",
+  "uncompressedSize": 427198549,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "ape-escape-europe.zip.part000",
+      "size": 10485760,
+      "md5": "09d934ec8430433a76cdd66dc4128278"
+    },
+    {
+      "name": "ape-escape-europe.zip.part001",
+      "size": 10485760,
+      "md5": "7ec894210b9a08c3e78ab57e7302a41a"
+    },
+    {
+      "name": "ape-escape-europe.zip.part002",
+      "size": 10485760,
+      "md5": "5de23469eb121f55ddeddb7db82fc7e2"
+    },
+    {
+      "name": "ape-escape-europe.zip.part003",
+      "size": 10485760,
+      "md5": "c205c6e1ffb27ad6c9bc3a1e07f82125"
+    },
+    {
+      "name": "ape-escape-europe.zip.part004",
+      "size": 10485760,
+      "md5": "e4a59ad6071d30e4c514fea5d187876f"
+    },
+    {
+      "name": "ape-escape-europe.zip.part005",
+      "size": 10485760,
+      "md5": "7fde5831829e102ab625ea20d0772ed3"
+    },
+    {
+      "name": "ape-escape-europe.zip.part006",
+      "size": 10485760,
+      "md5": "922a92b8648c150df807f66d2e737af0"
+    },
+    {
+      "name": "ape-escape-europe.zip.part007",
+      "size": 10485760,
+      "md5": "8b53ffb1621a26d3d7a240c349b8ec1e"
+    },
+    {
+      "name": "ape-escape-europe.zip.part008",
+      "size": 10485760,
+      "md5": "740816599d13d70c469a2c12353acefe"
+    },
+    {
+      "name": "ape-escape-europe.zip.part009",
+      "size": 10485760,
+      "md5": "f08c724ec92bc143062227795195e219"
+    },
+    {
+      "name": "ape-escape-europe.zip.part010",
+      "size": 10485760,
+      "md5": "faeaa1bb827ca30cf0afd236c149709a"
+    },
+    {
+      "name": "ape-escape-europe.zip.part011",
+      "size": 10485760,
+      "md5": "ca54380dd88768ef674071d70482474a"
+    },
+    {
+      "name": "ape-escape-europe.zip.part012",
+      "size": 10485760,
+      "md5": "99d95c65839305642ac9ed98a24d9049"
+    },
+    {
+      "name": "ape-escape-europe.zip.part013",
+      "size": 1919662,
+      "md5": "ffb9d224370d3a9eb6449188caaf4dd1"
+    }
+  ]
+}
