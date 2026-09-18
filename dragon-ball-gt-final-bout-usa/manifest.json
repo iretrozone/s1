@@ -1,0 +1,41 @@
+{
+  "name": "Dragon Ball GT - Final Bout (USA)",
+  "system": "psx",
+  "file": "dragon-ball-gt-final-bout-usa.zip",
+  "size": 59162539,
+  "md5": "bcb1617661056229c759175962ed1090",
+  "uncompressedSize": 158811843,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "dragon-ball-gt-final-bout-usa.zip.part000",
+      "size": 10485760,
+      "md5": "6f0dcfd53d33e040020f37cd406c0cf6"
+    },
+    {
+      "name": "dragon-ball-gt-final-bout-usa.zip.part001",
+      "size": 10485760,
+      "md5": "a3b380cb40c489b66802261c3b1a94b3"
+    },
+    {
+      "name": "dragon-ball-gt-final-bout-usa.zip.part002",
+      "size": 10485760,
+      "md5": "72e137a7730bab0218fbf55a839adc95"
+    },
+    {
+      "name": "dragon-ball-gt-final-bout-usa.zip.part003",
+      "size": 10485760,
+      "md5": "c3a0cda7589b049af2e9c977c44edb4a"
+    },
+    {
+      "name": "dragon-ball-gt-final-bout-usa.zip.part004",
+      "size": 10485760,
+      "md5": "0350987966fa8a0f0541a690d8a71750"
+    },
+    {
+      "name": "dragon-ball-gt-final-bout-usa.zip.part005",
+      "size": 6733739,
+      "md5": "ea32b6486636dffa9ba6555a74a3a005"
+    }
+  ]
+}
