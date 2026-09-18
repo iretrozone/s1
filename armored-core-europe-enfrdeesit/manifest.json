@@ -1,0 +1,136 @@
+{
+  "name": "Armored Core (Europe) (EnFrDeEsIt)",
+  "system": "psx",
+  "file": "armored-core-europe-enfrdeesit.zip",
+  "size": 251821777,
+  "md5": "5227fd2bb9db396c9bf4c9a2ba3355c3",
+  "uncompressedSize": 552207368,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part000",
+      "size": 10485760,
+      "md5": "095c6d6421bba38195559b0b2c56f9d8"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part001",
+      "size": 10485760,
+      "md5": "beddf433e5b4fc96f7552ce9d3a642f5"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part002",
+      "size": 10485760,
+      "md5": "3697dc6862a00b57d44050b076091c03"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part003",
+      "size": 10485760,
+      "md5": "b378944ea60a92c08af210ba8f01b9e1"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part004",
+      "size": 10485760,
+      "md5": "5407d2da3a0450efac5adde554691a9a"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part005",
+      "size": 10485760,
+      "md5": "49acccfb533cde5d235e7365dd3eaff3"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part006",
+      "size": 10485760,
+      "md5": "614f572a1a5124135adb1270c1cf3f77"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part007",
+      "size": 10485760,
+      "md5": "65af062c96d2784a1fbe2ec4ededd070"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part008",
+      "size": 10485760,
+      "md5": "f684cd6c9f36ac9a81953359855c75b9"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part009",
+      "size": 10485760,
+      "md5": "52e2a2226ef754a5612606782097a7e9"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part010",
+      "size": 10485760,
+      "md5": "7c3fcd9aa0b4bcbf3ac7f18878c42906"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part011",
+      "size": 10485760,
+      "md5": "d4f82fbe426effc2468fc6b016fad470"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part012",
+      "size": 10485760,
+      "md5": "461198dd55cbd4241d239181a5756bfd"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part013",
+      "size": 10485760,
+      "md5": "946a447d55a160723a848e32c01fbd88"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part014",
+      "size": 10485760,
+      "md5": "7fbfbde992784a17510070247b62eb97"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part015",
+      "size": 10485760,
+      "md5": "46df59c6a5fa965eb1d2ad67209d02ab"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part016",
+      "size": 10485760,
+      "md5": "709c9884e5441b2789f2e18f0b6a70dc"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part017",
+      "size": 10485760,
+      "md5": "89e8d0bd53de5a55be1c942d5a8cdf1c"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part018",
+      "size": 10485760,
+      "md5": "a4c6820b3a2c8d5cd0860c89e23e5a98"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part019",
+      "size": 10485760,
+      "md5": "7ed2b812323efc360bc13383bde84d7a"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part020",
+      "size": 10485760,
+      "md5": "79bf7d4074be801165f5649d4fe6dd05"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part021",
+      "size": 10485760,
+      "md5": "5c513c48fab642952f93cd55e7fda980"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part022",
+      "size": 10485760,
+      "md5": "6a409cef109443bbe9e80d0e673dc889"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part023",
+      "size": 10485760,
+      "md5": "4dd00c964190e02a62a0ef2a312d752c"
+    },
+    {
+      "name": "armored-core-europe-enfrdeesit.zip.part024",
+      "size": 163537,
+      "md5": "fbc876624189cf087b0fee8bfef8d931"
+    }
+  ]
+}
