@@ -1,0 +1,116 @@
+{
+  "name": "Digimon World 2 (USA)",
+  "system": "psx",
+  "file": "digimon-world-2-usa.zip",
+  "size": 216586388,
+  "md5": "0ace29e579ec69bf4fb2a215277d7a5b",
+  "uncompressedSize": 461994039,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "digimon-world-2-usa.zip.part000",
+      "size": 10485760,
+      "md5": "a0b52a13b24b53563a77cbb7c26d70b8"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part001",
+      "size": 10485760,
+      "md5": "ca9be658d59b0a8ad80a066e0a9b8b30"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part002",
+      "size": 10485760,
+      "md5": "7bb7b15d700bd52cb1f1b6ac9a48478d"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part003",
+      "size": 10485760,
+      "md5": "7b83ca8b075c50e3c3fbd14a3e0a6263"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part004",
+      "size": 10485760,
+      "md5": "11f1e633e59ba09d47640ac5129fc0af"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part005",
+      "size": 10485760,
+      "md5": "09f107145169de969c40359e088bdb67"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part006",
+      "size": 10485760,
+      "md5": "441a817c2000255f8147a000e91ef24c"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part007",
+      "size": 10485760,
+      "md5": "af1b551b186f5c751bfe80a887e187f6"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part008",
+      "size": 10485760,
+      "md5": "5a1871598e521b655c35b8e6ca9c23ed"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part009",
+      "size": 10485760,
+      "md5": "3c469b64f9c89c012668fb9912ab4be3"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part010",
+      "size": 10485760,
+      "md5": "5d6be7ebf03d202c8bb2ecae45ab33d5"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part011",
+      "size": 10485760,
+      "md5": "f994fcc24ab15f763f2f232bd7f31e76"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part012",
+      "size": 10485760,
+      "md5": "d9428689a7a4132d3a55b20e2d8d029d"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part013",
+      "size": 10485760,
+      "md5": "10e6801edde6ced5e037eb5677600389"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part014",
+      "size": 10485760,
+      "md5": "8919cb6ff19424a03e81d8f83340f47a"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part015",
+      "size": 10485760,
+      "md5": "af93d0c721878108ad61199358a095fe"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part016",
+      "size": 10485760,
+      "md5": "5b21b728bce64fd0201768c3df48331c"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part017",
+      "size": 10485760,
+      "md5": "04b40820ee1a71e71ac8b5b416c7c020"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part018",
+      "size": 10485760,
+      "md5": "a002ef8fafd294f7ff7f12407c27198d"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part019",
+      "size": 10485760,
+      "md5": "4e4fa69b90ccf40301eacfb6d5e2ca70"
+    },
+    {
+      "name": "digimon-world-2-usa.zip.part020",
+      "size": 6871188,
+      "md5": "9916049bdf5cac0d46a7f29aff2770f2"
+    }
+  ]
+}
