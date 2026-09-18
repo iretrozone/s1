@@ -1,0 +1,156 @@
+{
+  "name": "Blade (Europe)",
+  "system": "psx",
+  "file": "blade-europe.zip",
+  "size": 297593615,
+  "md5": "0d26e9e8d2d5afdbe2b535b402d79fb5",
+  "uncompressedSize": 625001744,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "blade-europe.zip.part000",
+      "size": 10485760,
+      "md5": "0b501abffb77c7eb7f777097da15569f"
+    },
+    {
+      "name": "blade-europe.zip.part001",
+      "size": 10485760,
+      "md5": "d579687a757a44ba42258ac47961ff5a"
+    },
+    {
+      "name": "blade-europe.zip.part002",
+      "size": 10485760,
+      "md5": "d6b8a47b8d4825cb77ce728934506c4e"
+    },
+    {
+      "name": "blade-europe.zip.part003",
+      "size": 10485760,
+      "md5": "8345716a25ab3c55548575463b9f281d"
+    },
+    {
+      "name": "blade-europe.zip.part004",
+      "size": 10485760,
+      "md5": "f488ef27e582c1288e49b83068f4102d"
+    },
+    {
+      "name": "blade-europe.zip.part005",
+      "size": 10485760,
+      "md5": "bf31dbec4e8a224af89cd8cb25fcbce1"
+    },
+    {
+      "name": "blade-europe.zip.part006",
+      "size": 10485760,
+      "md5": "73dfff1493ac7581dc1bc584d577e522"
+    },
+    {
+      "name": "blade-europe.zip.part007",
+      "size": 10485760,
+      "md5": "3972a474253d1f50c81b2174040cbb65"
+    },
+    {
+      "name": "blade-europe.zip.part008",
+      "size": 10485760,
+      "md5": "a9099fcb815b8a910c6866f7be3d82cf"
+    },
+    {
+      "name": "blade-europe.zip.part009",
+      "size": 10485760,
+      "md5": "c9667c889b9ee5bc8bb91e22eed6dc37"
+    },
+    {
+      "name": "blade-europe.zip.part010",
+      "size": 10485760,
+      "md5": "8618299b2934f431806c3af7147e8849"
+    },
+    {
+      "name": "blade-europe.zip.part011",
+      "size": 10485760,
+      "md5": "93d5ef6d2d3fbbd9693aeaedec8a980d"
+    },
+    {
+      "name": "blade-europe.zip.part012",
+      "size": 10485760,
+      "md5": "e9c55e13e57c2129af7af266755ace5b"
+    },
+    {
+      "name": "blade-europe.zip.part013",
+      "size": 10485760,
+      "md5": "95e500ac1e78078c160d6dd8efe9eb3f"
+    },
+    {
+      "name": "blade-europe.zip.part014",
+      "size": 10485760,
+      "md5": "436ad89463c2308e26ba955777fa06ef"
+    },
+    {
+      "name": "blade-europe.zip.part015",
+      "size": 10485760,
+      "md5": "f9701cc1738eb90c6c9cbaad8700a291"
+    },
+    {
+      "name": "blade-europe.zip.part016",
+      "size": 10485760,
+      "md5": "44feb26c784d7204ca3d056ac759760a"
+    },
+    {
+      "name": "blade-europe.zip.part017",
+      "size": 10485760,
+      "md5": "f475c9a28a20c666ec894b286993df26"
+    },
+    {
+      "name": "blade-europe.zip.part018",
+      "size": 10485760,
+      "md5": "0f25ea0642bbb491c8ab5ee8bcacc5bb"
+    },
+    {
+      "name": "blade-europe.zip.part019",
+      "size": 10485760,
+      "md5": "cab0efd858acd403a204a414aff3000a"
+    },
+    {
+      "name": "blade-europe.zip.part020",
+      "size": 10485760,
+      "md5": "6b3c36cd5305b2b948643975dd860c25"
+    },
+    {
+      "name": "blade-europe.zip.part021",
+      "size": 10485760,
+      "md5": "f728f524cdf24e2da594fb94187bc02f"
+    },
+    {
+      "name": "blade-europe.zip.part022",
+      "size": 10485760,
+      "md5": "c049a5586aba875ac5041a5695171f44"
+    },
+    {
+      "name": "blade-europe.zip.part023",
+      "size": 10485760,
+      "md5": "181f0498738daae459a4cf4844830a5d"
+    },
+    {
+      "name": "blade-europe.zip.part024",
+      "size": 10485760,
+      "md5": "b7a8badc36a0f11edceb11cfeb8cafc4"
+    },
+    {
+      "name": "blade-europe.zip.part025",
+      "size": 10485760,
+      "md5": "e3a0bef9e0410c4ecf770a50e5845dab"
+    },
+    {
+      "name": "blade-europe.zip.part026",
+      "size": 10485760,
+      "md5": "5610e8f94f659fcb45f6adb0bbf3a955"
+    },
+    {
+      "name": "blade-europe.zip.part027",
+      "size": 10485760,
+      "md5": "c0a572c931d8eab6c1fe474fd84b7f4b"
+    },
+    {
+      "name": "blade-europe.zip.part028",
+      "size": 3992335,
+      "md5": "bf46dbe313117f0c60f49b5df0396606"
+    }
+  ]
+}
