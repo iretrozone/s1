@@ -1,0 +1,226 @@
+{
+  "name": "Digimon World 3 (USA)",
+  "system": "psx",
+  "file": "digimon-world-3-usa.zip",
+  "size": 449021560,
+  "md5": "1098c4546b48f0cd134322f235b26d31",
+  "uncompressedSize": 647526855,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "digimon-world-3-usa.zip.part000",
+      "size": 10485760,
+      "md5": "9db32bff5e9d6feda49c4b9b20657589"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part001",
+      "size": 10485760,
+      "md5": "3a5e60bb80fb86ddc0310b0ab3877177"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part002",
+      "size": 10485760,
+      "md5": "d5646b80a2ae5adb1887b5cb607a9911"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part003",
+      "size": 10485760,
+      "md5": "603c3cff5c4737dfcbd992c3b390049f"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part004",
+      "size": 10485760,
+      "md5": "c7feac2e10fa44508227d145181569bb"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part005",
+      "size": 10485760,
+      "md5": "480d16b34a4694398bdbb73dd41b4f12"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part006",
+      "size": 10485760,
+      "md5": "0a35e29d5854314d602de5f69d93e0ac"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part007",
+      "size": 10485760,
+      "md5": "d3ffb6392a0b0a9fc498ab5a252d987b"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part008",
+      "size": 10485760,
+      "md5": "1fed23c53ab456cd055c54e85f9279b2"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part009",
+      "size": 10485760,
+      "md5": "885d94e26519906cf4285c289e4c23ca"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part010",
+      "size": 10485760,
+      "md5": "7ea3430200dfc3ba469a3a86ac3eb429"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part011",
+      "size": 10485760,
+      "md5": "193f30a1e427b24187cfccf36edfdb11"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part012",
+      "size": 10485760,
+      "md5": "c064edb1806b449a94fb5627b8b8040d"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part013",
+      "size": 10485760,
+      "md5": "6ffd30c3c4c75e674bcf9cf364e44e74"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part014",
+      "size": 10485760,
+      "md5": "2174bd9b8de12f1cab5ae510b8205117"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part015",
+      "size": 10485760,
+      "md5": "6fcc8b6f897da54eb6299685b656b1b8"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part016",
+      "size": 10485760,
+      "md5": "6ed793d180e462e894374c1457bb280e"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part017",
+      "size": 10485760,
+      "md5": "232e3827c4cf89799df0fe27975acaa1"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part018",
+      "size": 10485760,
+      "md5": "df12cbc71826e98d7e235a9aeb09d0ec"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part019",
+      "size": 10485760,
+      "md5": "e4bd08d683c2505219be6cbcbdffb3dc"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part020",
+      "size": 10485760,
+      "md5": "5929661e62f9904754c0950ad3077e66"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part021",
+      "size": 10485760,
+      "md5": "f382a9bedfe5de24ecc9dfdb9b574f01"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part022",
+      "size": 10485760,
+      "md5": "d7dccb47fe1c120a5a43c3007e32fe92"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part023",
+      "size": 10485760,
+      "md5": "8a8b639a7473ffe7b601a39a3a99d1b9"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part024",
+      "size": 10485760,
+      "md5": "5349fe59d6224c64d9829ef4d7b8a369"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part025",
+      "size": 10485760,
+      "md5": "e22be0a13b55fa47e079d934dccb8d89"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part026",
+      "size": 10485760,
+      "md5": "9e1868ef0455b4009544daecc480433a"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part027",
+      "size": 10485760,
+      "md5": "ec7c8336feaae915d6bbaeb0cac87c00"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part028",
+      "size": 10485760,
+      "md5": "169331db87c0a6bcd5adf71027cb0e22"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part029",
+      "size": 10485760,
+      "md5": "9bda0c9509bdec522bfac642cf19ebe1"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part030",
+      "size": 10485760,
+      "md5": "1fe2a2db20d1fb0f082deb0a6cb909fe"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part031",
+      "size": 10485760,
+      "md5": "a833bf48401a8d8c947b14c1bfebd59a"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part032",
+      "size": 10485760,
+      "md5": "82510602bab3b2ae694477796962e16a"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part033",
+      "size": 10485760,
+      "md5": "de447c5ef5c08451ad6929ead4094061"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part034",
+      "size": 10485760,
+      "md5": "85ed128926cafefd4a26602ed019597d"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part035",
+      "size": 10485760,
+      "md5": "bc9f0e4a9b47d7694361376772b5b7d6"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part036",
+      "size": 10485760,
+      "md5": "8eca6f6e2b745a925751664ef0a8c95c"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part037",
+      "size": 10485760,
+      "md5": "dff2f4daf09a65777fe16e29dfe88512"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part038",
+      "size": 10485760,
+      "md5": "f9da49152fc94fa2c8b2f4d0b3bdba46"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part039",
+      "size": 10485760,
+      "md5": "768636cf50c77d676c2190dd9e6f9fc3"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part040",
+      "size": 10485760,
+      "md5": "b2df8f21687d444cd6ea12199485ba74"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part041",
+      "size": 10485760,
+      "md5": "44b78c448be80dbd406eec773c26c13d"
+    },
+    {
+      "name": "digimon-world-3-usa.zip.part042",
+      "size": 8619640,
+      "md5": "3fb4e903f885280569f7cb098239a105"
+    }
+  ]
+}
