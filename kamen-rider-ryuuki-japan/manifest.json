@@ -1,0 +1,51 @@
+{
+  "name": "Kamen Rider Ryuuki (Japan)",
+  "system": "psx",
+  "file": "kamen-rider-ryuuki-japan.zip",
+  "size": 81308220,
+  "md5": "d4dead07c26ade19aa4982cd9ea980fb",
+  "uncompressedSize": 169943852,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "kamen-rider-ryuuki-japan.zip.part000",
+      "size": 10485760,
+      "md5": "e17b58994fea3b37c7768945f53de375"
+    },
+    {
+      "name": "kamen-rider-ryuuki-japan.zip.part001",
+      "size": 10485760,
+      "md5": "3fb2d137faa628a6efaaacb9e429189d"
+    },
+    {
+      "name": "kamen-rider-ryuuki-japan.zip.part002",
+      "size": 10485760,
+      "md5": "4e7f1aae9cc9106e63e05c52c4b2e390"
+    },
+    {
+      "name": "kamen-rider-ryuuki-japan.zip.part003",
+      "size": 10485760,
+      "md5": "24d8b642fd18ff260ed3c53fb1e74f7c"
+    },
+    {
+      "name": "kamen-rider-ryuuki-japan.zip.part004",
+      "size": 10485760,
+      "md5": "1d7bb46d8cfbd3582d0d9ceb4b1ed3b8"
+    },
+    {
+      "name": "kamen-rider-ryuuki-japan.zip.part005",
+      "size": 10485760,
+      "md5": "8548367afae8c024d1fcd4d7e5d98513"
+    },
+    {
+      "name": "kamen-rider-ryuuki-japan.zip.part006",
+      "size": 10485760,
+      "md5": "00ba5ea43a2f8e2988d6715d6c71a525"
+    },
+    {
+      "name": "kamen-rider-ryuuki-japan.zip.part007",
+      "size": 7907900,
+      "md5": "760d42f389f61ee81fba46b10350fe3e"
+    }
+  ]
+}
