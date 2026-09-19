@@ -1,0 +1,151 @@
+{
+  "name": "Wild Arms (Europe)",
+  "system": "psx",
+  "file": "wild-arms-europe.zip",
+  "size": 286664406,
+  "md5": "b36f78061099e734ca73336b27758d94",
+  "uncompressedSize": 637203924,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "wild-arms-europe.zip.part000",
+      "size": 10485760,
+      "md5": "089bae9fd479ec344ebfe487a9640fb9"
+    },
+    {
+      "name": "wild-arms-europe.zip.part001",
+      "size": 10485760,
+      "md5": "f504fa6ac18d2cc2156c81519edfda51"
+    },
+    {
+      "name": "wild-arms-europe.zip.part002",
+      "size": 10485760,
+      "md5": "3e7eea1fbc8185d0522fc3fa482cf21f"
+    },
+    {
+      "name": "wild-arms-europe.zip.part003",
+      "size": 10485760,
+      "md5": "e2e528e301509b3613b94a1bad1afefc"
+    },
+    {
+      "name": "wild-arms-europe.zip.part004",
+      "size": 10485760,
+      "md5": "23ab811af0f6262598dcf4c875409a08"
+    },
+    {
+      "name": "wild-arms-europe.zip.part005",
+      "size": 10485760,
+      "md5": "83f598be0c773ca3368c865c3a8efc5a"
+    },
+    {
+      "name": "wild-arms-europe.zip.part006",
+      "size": 10485760,
+      "md5": "8c6d7ec394e24dd4d327d14c700deee8"
+    },
+    {
+      "name": "wild-arms-europe.zip.part007",
+      "size": 10485760,
+      "md5": "52f902c6630f7455c1f57072e33a5e00"
+    },
+    {
+      "name": "wild-arms-europe.zip.part008",
+      "size": 10485760,
+      "md5": "01006e9f1c215b15b46315f043a29ef4"
+    },
+    {
+      "name": "wild-arms-europe.zip.part009",
+      "size": 10485760,
+      "md5": "d51071aab46717c6b0606ef122afcbd2"
+    },
+    {
+      "name": "wild-arms-europe.zip.part010",
+      "size": 10485760,
+      "md5": "b1e8864d937a526b1c350cc63e2b2745"
+    },
+    {
+      "name": "wild-arms-europe.zip.part011",
+      "size": 10485760,
+      "md5": "c324bafe40bdcd3ecd36d166c1de20de"
+    },
+    {
+      "name": "wild-arms-europe.zip.part012",
+      "size": 10485760,
+      "md5": "74d69e9503775abf8934ac39415514d1"
+    },
+    {
+      "name": "wild-arms-europe.zip.part013",
+      "size": 10485760,
+      "md5": "604fa913bc68052ca05e7080d7b9f93d"
+    },
+    {
+      "name": "wild-arms-europe.zip.part014",
+      "size": 10485760,
+      "md5": "568d60ff20a9bfc4d2c87f26a35cc561"
+    },
+    {
+      "name": "wild-arms-europe.zip.part015",
+      "size": 10485760,
+      "md5": "9fcedce6248c77ffdd7f9eab8466de03"
+    },
+    {
+      "name": "wild-arms-europe.zip.part016",
+      "size": 10485760,
+      "md5": "cafb35ee71fb99203ffab3ae8f1955dc"
+    },
+    {
+      "name": "wild-arms-europe.zip.part017",
+      "size": 10485760,
+      "md5": "c7a39b2a5cd8a48fcd12dda9a14aa5ac"
+    },
+    {
+      "name": "wild-arms-europe.zip.part018",
+      "size": 10485760,
+      "md5": "9aac06cdb140996820c13c11ecebf779"
+    },
+    {
+      "name": "wild-arms-europe.zip.part019",
+      "size": 10485760,
+      "md5": "3a0df5a22db4346e69e0af5916fdec05"
+    },
+    {
+      "name": "wild-arms-europe.zip.part020",
+      "size": 10485760,
+      "md5": "ae35226574d2661100c3af05aaf6f347"
+    },
+    {
+      "name": "wild-arms-europe.zip.part021",
+      "size": 10485760,
+      "md5": "e6727ba5ffa1158e6600c6616e34185d"
+    },
+    {
+      "name": "wild-arms-europe.zip.part022",
+      "size": 10485760,
+      "md5": "3dd60d4090a89e809c6f2ae04de644f2"
+    },
+    {
+      "name": "wild-arms-europe.zip.part023",
+      "size": 10485760,
+      "md5": "67c11b361a52ba314262f9f5d3f7dabb"
+    },
+    {
+      "name": "wild-arms-europe.zip.part024",
+      "size": 10485760,
+      "md5": "70bed464205b7c3d518de5001f41f4c6"
+    },
+    {
+      "name": "wild-arms-europe.zip.part025",
+      "size": 10485760,
+      "md5": "5119c97e52b6d19be475756ae6b12b14"
+    },
+    {
+      "name": "wild-arms-europe.zip.part026",
+      "size": 10485760,
+      "md5": "4d3b58db2498a2569bdb28d8507386bf"
+    },
+    {
+      "name": "wild-arms-europe.zip.part027",
+      "size": 3548886,
+      "md5": "10e390be5981f5772f07f697d541d79d"
+    }
+  ]
+}
