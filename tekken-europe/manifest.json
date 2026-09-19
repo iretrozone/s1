@@ -1,0 +1,316 @@
+{
+  "name": "Tekken (Europe)",
+  "system": "psx",
+  "file": "tekken-europe.zip",
+  "size": 637623864,
+  "md5": "cdb4bb0873b2f4e98cb2d660b287d30a",
+  "uncompressedSize": 749416118,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "tekken-europe.zip.part000",
+      "size": 10485760,
+      "md5": "ed0100fceed43796f2d33af78b59b543"
+    },
+    {
+      "name": "tekken-europe.zip.part001",
+      "size": 10485760,
+      "md5": "7db7ea0ba90866ba9508d8b57a7489bd"
+    },
+    {
+      "name": "tekken-europe.zip.part002",
+      "size": 10485760,
+      "md5": "18c806d38a6bf7a96e00d6d403e24773"
+    },
+    {
+      "name": "tekken-europe.zip.part003",
+      "size": 10485760,
+      "md5": "e3e58feb0e5fc70b416784fa0fabd960"
+    },
+    {
+      "name": "tekken-europe.zip.part004",
+      "size": 10485760,
+      "md5": "662afc57080f21ea1315510ee888be00"
+    },
+    {
+      "name": "tekken-europe.zip.part005",
+      "size": 10485760,
+      "md5": "7bc5f267fcbb8a9f1d825e9de7fac56d"
+    },
+    {
+      "name": "tekken-europe.zip.part006",
+      "size": 10485760,
+      "md5": "914c3f963e8249a9f594ccaeb64d09da"
+    },
+    {
+      "name": "tekken-europe.zip.part007",
+      "size": 10485760,
+      "md5": "69028dfff6c0c205adba3a901f50d8d9"
+    },
+    {
+      "name": "tekken-europe.zip.part008",
+      "size": 10485760,
+      "md5": "ecbc175b1af9a842a96a81c6bd35f86e"
+    },
+    {
+      "name": "tekken-europe.zip.part009",
+      "size": 10485760,
+      "md5": "edec7120c4ab3f3d10709f7cfb074a0a"
+    },
+    {
+      "name": "tekken-europe.zip.part010",
+      "size": 10485760,
+      "md5": "1560d9c8fdfac5ae251b064446c80e2a"
+    },
+    {
+      "name": "tekken-europe.zip.part011",
+      "size": 10485760,
+      "md5": "f477c1ab374039f5d3a54ad5646c3322"
+    },
+    {
+      "name": "tekken-europe.zip.part012",
+      "size": 10485760,
+      "md5": "aa300f2a6a34ba8ba23d6d554685f3b1"
+    },
+    {
+      "name": "tekken-europe.zip.part013",
+      "size": 10485760,
+      "md5": "6598358316989708d3653077f8b2149e"
+    },
+    {
+      "name": "tekken-europe.zip.part014",
+      "size": 10485760,
+      "md5": "06e35c4f2e0a3fed49f35bc7f37bd4d3"
+    },
+    {
+      "name": "tekken-europe.zip.part015",
+      "size": 10485760,
+      "md5": "e06adcaf341e08ce0fb79e79bea05ba7"
+    },
+    {
+      "name": "tekken-europe.zip.part016",
+      "size": 10485760,
+      "md5": "2656ef0ff702a8a8fcd1372e63278e7c"
+    },
+    {
+      "name": "tekken-europe.zip.part017",
+      "size": 10485760,
+      "md5": "e0b218a5c24a4a3131e5c93a057a1800"
+    },
+    {
+      "name": "tekken-europe.zip.part018",
+      "size": 10485760,
+      "md5": "199c5b93de3fa7bee1afb72d598882c8"
+    },
+    {
+      "name": "tekken-europe.zip.part019",
+      "size": 10485760,
+      "md5": "316cbadad7f1121d17ed226910335375"
+    },
+    {
+      "name": "tekken-europe.zip.part020",
+      "size": 10485760,
+      "md5": "07e3961b38845542a44b4d74ed38c0c5"
+    },
+    {
+      "name": "tekken-europe.zip.part021",
+      "size": 10485760,
+      "md5": "24b9e9e99355fd6035e3cf16bc8b86b4"
+    },
+    {
+      "name": "tekken-europe.zip.part022",
+      "size": 10485760,
+      "md5": "171dd5d9f477b4c9631e970fd24a0c7f"
+    },
+    {
+      "name": "tekken-europe.zip.part023",
+      "size": 10485760,
+      "md5": "b4126983af7c814bac62c21592da6a3e"
+    },
+    {
+      "name": "tekken-europe.zip.part024",
+      "size": 10485760,
+      "md5": "5fd18541ca83310d9df27d69617c4b6c"
+    },
+    {
+      "name": "tekken-europe.zip.part025",
+      "size": 10485760,
+      "md5": "34634e0cb487edd76756358843faa219"
+    },
+    {
+      "name": "tekken-europe.zip.part026",
+      "size": 10485760,
+      "md5": "4b1e294122715620d03963019586e951"
+    },
+    {
+      "name": "tekken-europe.zip.part027",
+      "size": 10485760,
+      "md5": "3f138f4918a85c6f255ca711958bc182"
+    },
+    {
+      "name": "tekken-europe.zip.part028",
+      "size": 10485760,
+      "md5": "bb2b3ff035c2f201dd58fe5bda1ddad6"
+    },
+    {
+      "name": "tekken-europe.zip.part029",
+      "size": 10485760,
+      "md5": "2fe00eb53223f401a01eeb343192bd26"
+    },
+    {
+      "name": "tekken-europe.zip.part030",
+      "size": 10485760,
+      "md5": "f82de7ba216e9cb8639f26fea63355e4"
+    },
+    {
+      "name": "tekken-europe.zip.part031",
+      "size": 10485760,
+      "md5": "15e71f44a32380277959aa24e5e279f7"
+    },
+    {
+      "name": "tekken-europe.zip.part032",
+      "size": 10485760,
+      "md5": "90eebce9f5bf5de4dfffbd9693938948"
+    },
+    {
+      "name": "tekken-europe.zip.part033",
+      "size": 10485760,
+      "md5": "c25d427b988c9a7dc4bcfc35da4e80e2"
+    },
+    {
+      "name": "tekken-europe.zip.part034",
+      "size": 10485760,
+      "md5": "b9f4a8a8f6177a8f88b50736c3e1446c"
+    },
+    {
+      "name": "tekken-europe.zip.part035",
+      "size": 10485760,
+      "md5": "031fb85ce288807d58ac3690325aa172"
+    },
+    {
+      "name": "tekken-europe.zip.part036",
+      "size": 10485760,
+      "md5": "565bb881861dab0ba654c73d0f311f6f"
+    },
+    {
+      "name": "tekken-europe.zip.part037",
+      "size": 10485760,
+      "md5": "15be2e8bfbac7ad56975029d32cb238d"
+    },
+    {
+      "name": "tekken-europe.zip.part038",
+      "size": 10485760,
+      "md5": "220d035657ab66207afa2a595aaf34e7"
+    },
+    {
+      "name": "tekken-europe.zip.part039",
+      "size": 10485760,
+      "md5": "65e354bf56c70b2e8822d5fa8abf4a34"
+    },
+    {
+      "name": "tekken-europe.zip.part040",
+      "size": 10485760,
+      "md5": "5b2408509c5aeb9e9f445d222e741ed5"
+    },
+    {
+      "name": "tekken-europe.zip.part041",
+      "size": 10485760,
+      "md5": "ba00488fb2686501bfa7d0f2cb043ebb"
+    },
+    {
+      "name": "tekken-europe.zip.part042",
+      "size": 10485760,
+      "md5": "5a21410c6e35183c5682f66acf05fbf1"
+    },
+    {
+      "name": "tekken-europe.zip.part043",
+      "size": 10485760,
+      "md5": "114ea3e5f4e8b746f09c5c22cb390a3d"
+    },
+    {
+      "name": "tekken-europe.zip.part044",
+      "size": 10485760,
+      "md5": "40a622fdcc703ba5a3bbab90f39d5eff"
+    },
+    {
+      "name": "tekken-europe.zip.part045",
+      "size": 10485760,
+      "md5": "4ab8f6ddc2e7c45486fbd57801994f6f"
+    },
+    {
+      "name": "tekken-europe.zip.part046",
+      "size": 10485760,
+      "md5": "831cc5380f496a670a0019b369ed8293"
+    },
+    {
+      "name": "tekken-europe.zip.part047",
+      "size": 10485760,
+      "md5": "db8123d8485a6117896fdf6a226b252c"
+    },
+    {
+      "name": "tekken-europe.zip.part048",
+      "size": 10485760,
+      "md5": "74daa8ccd7c96a020c7dd4924b134bec"
+    },
+    {
+      "name": "tekken-europe.zip.part049",
+      "size": 10485760,
+      "md5": "154c7a1caba5d27f0971ebc7b9008208"
+    },
+    {
+      "name": "tekken-europe.zip.part050",
+      "size": 10485760,
+      "md5": "e85f91c4b24a57ee7516b59f3e01f00e"
+    },
+    {
+      "name": "tekken-europe.zip.part051",
+      "size": 10485760,
+      "md5": "198a42a1fd287fa3a4243d4fcb15519c"
+    },
+    {
+      "name": "tekken-europe.zip.part052",
+      "size": 10485760,
+      "md5": "acf0f50f8a6e2baadb8e81063d417ec8"
+    },
+    {
+      "name": "tekken-europe.zip.part053",
+      "size": 10485760,
+      "md5": "8185425e5e663787532cc08561cb31cc"
+    },
+    {
+      "name": "tekken-europe.zip.part054",
+      "size": 10485760,
+      "md5": "85b793d8606247d70c90334d3dc8c324"
+    },
+    {
+      "name": "tekken-europe.zip.part055",
+      "size": 10485760,
+      "md5": "57958ebce8cc92862acf6caab338c01d"
+    },
+    {
+      "name": "tekken-europe.zip.part056",
+      "size": 10485760,
+      "md5": "3d08b5a0a7fff3fcb821145d73eac7e0"
+    },
+    {
+      "name": "tekken-europe.zip.part057",
+      "size": 10485760,
+      "md5": "412a57da1d881c6faa273da147d6ff79"
+    },
+    {
+      "name": "tekken-europe.zip.part058",
+      "size": 10485760,
+      "md5": "a2855d3f399f843d144ecf3f3d958a08"
+    },
+    {
+      "name": "tekken-europe.zip.part059",
+      "size": 10485760,
+      "md5": "d58fa54c7d1a1dee7c71a31612467e41"
+    },
+    {
+      "name": "tekken-europe.zip.part060",
+      "size": 8478264,
+      "md5": "8f1f79c4ce4b6514b1288ef71571420f"
+    }
+  ]
+}
