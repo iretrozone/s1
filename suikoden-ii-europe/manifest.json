@@ -1,0 +1,181 @@
+{
+  "name": "Suikoden II (Europe)",
+  "system": "psx",
+  "file": "suikoden-ii-europe.zip",
+  "size": 349276198,
+  "md5": "16c370ce23fccfd1a609f3fa87e8cc1d",
+  "uncompressedSize": 513914438,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "suikoden-ii-europe.zip.part000",
+      "size": 10485760,
+      "md5": "5d4a8ae3d32f6ebb27926534c08d06fd"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part001",
+      "size": 10485760,
+      "md5": "54cf5dd844b0a15ea9917f7cb814e705"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part002",
+      "size": 10485760,
+      "md5": "35a1604071dfc7ba160728120dba3fcc"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part003",
+      "size": 10485760,
+      "md5": "40a50bd6b7dc81d3998e39ac1faadba9"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part004",
+      "size": 10485760,
+      "md5": "c0d54acc700916a40e8dbbcb05bdff2a"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part005",
+      "size": 10485760,
+      "md5": "c0c6cfae0f49865b6a66a71fb124af0a"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part006",
+      "size": 10485760,
+      "md5": "d58a878a1908817b06c4c67e083151c6"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part007",
+      "size": 10485760,
+      "md5": "cadab0b8c356fdb03fa24ae286210151"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part008",
+      "size": 10485760,
+      "md5": "b2ee74fd4a847d22e05045ab0b1ac812"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part009",
+      "size": 10485760,
+      "md5": "6691c25ec563b0c8137b7d93836e4b6d"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part010",
+      "size": 10485760,
+      "md5": "900c86213b7a71d1a85d91162adbdf84"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part011",
+      "size": 10485760,
+      "md5": "980c35e06435c3d243757b8a8d992ea2"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part012",
+      "size": 10485760,
+      "md5": "160b21ebf5427abe0ab373b7cb1b0ec7"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part013",
+      "size": 10485760,
+      "md5": "c238c7ef6ecd8d2dd9d983eff3f43f97"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part014",
+      "size": 10485760,
+      "md5": "68b12f863bc882ddc05049886047d534"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part015",
+      "size": 10485760,
+      "md5": "70d2461720b186300371a47be9aee1a3"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part016",
+      "size": 10485760,
+      "md5": "dc2848bea18cecb3e9864a9010714b17"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part017",
+      "size": 10485760,
+      "md5": "05385e92c90c189f9842e7adf6198cb3"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part018",
+      "size": 10485760,
+      "md5": "59b12568bfd8663f2740d512a96fd4be"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part019",
+      "size": 10485760,
+      "md5": "d14863bffcfaa5fa7f08dc2384bdcb50"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part020",
+      "size": 10485760,
+      "md5": "9b8ff501abdc8599d859043dce760ef6"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part021",
+      "size": 10485760,
+      "md5": "64fc8375a15fb97c14c150152e78c19b"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part022",
+      "size": 10485760,
+      "md5": "9523c3db28fca43e49c6e65d2ef10b25"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part023",
+      "size": 10485760,
+      "md5": "878182063dd26eab8b13860e921c69fb"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part024",
+      "size": 10485760,
+      "md5": "83a07dee6f9253b583694c36aa13804b"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part025",
+      "size": 10485760,
+      "md5": "7d7c5b13cea51683f572a7ea390c9dc1"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part026",
+      "size": 10485760,
+      "md5": "cb283abb40175d4d88346ab3b4be80c0"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part027",
+      "size": 10485760,
+      "md5": "3d02a666dd0398d2fce91783be50ca03"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part028",
+      "size": 10485760,
+      "md5": "f24fb24a634791632c800b9424c58382"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part029",
+      "size": 10485760,
+      "md5": "25fb745cf2f776917881cc10812ce0bc"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part030",
+      "size": 10485760,
+      "md5": "1c4369eb4c81a717b62880c06ca6dcdc"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part031",
+      "size": 10485760,
+      "md5": "2d3e7078d5adbb1c7e1a489135d98006"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part032",
+      "size": 10485760,
+      "md5": "a99f0e53734b03abf78ffdb314f52cac"
+    },
+    {
+      "name": "suikoden-ii-europe.zip.part033",
+      "size": 3246118,
+      "md5": "8e0f82e126e4d02e925807502d2e69c4"
+    }
+  ]
+}
