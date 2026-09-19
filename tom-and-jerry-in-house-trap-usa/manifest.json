@@ -1,0 +1,56 @@
+{
+  "name": "Tom and Jerry in House Trap (USA)",
+  "system": "psx",
+  "file": "tom-and-jerry-in-house-trap-usa.zip",
+  "size": 93069172,
+  "md5": "6d45b0d71b01dfe4da041f320e557481",
+  "uncompressedSize": 126914156,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "tom-and-jerry-in-house-trap-usa.zip.part000",
+      "size": 10485760,
+      "md5": "d059ad5e283c068dc5774d70ef01592a"
+    },
+    {
+      "name": "tom-and-jerry-in-house-trap-usa.zip.part001",
+      "size": 10485760,
+      "md5": "8c5a76f302a1e26bd000016ac64013e8"
+    },
+    {
+      "name": "tom-and-jerry-in-house-trap-usa.zip.part002",
+      "size": 10485760,
+      "md5": "860c823cdea8d51a5f9da228151c0c24"
+    },
+    {
+      "name": "tom-and-jerry-in-house-trap-usa.zip.part003",
+      "size": 10485760,
+      "md5": "8cdef74d7550af59b7062494c60f448b"
+    },
+    {
+      "name": "tom-and-jerry-in-house-trap-usa.zip.part004",
+      "size": 10485760,
+      "md5": "4c3cb15c56e3eeb227c7f81aaf0a1694"
+    },
+    {
+      "name": "tom-and-jerry-in-house-trap-usa.zip.part005",
+      "size": 10485760,
+      "md5": "410541e9b32113b8350b685708065de6"
+    },
+    {
+      "name": "tom-and-jerry-in-house-trap-usa.zip.part006",
+      "size": 10485760,
+      "md5": "13d664f409d70cc9a7c77f228ecaa7ec"
+    },
+    {
+      "name": "tom-and-jerry-in-house-trap-usa.zip.part007",
+      "size": 10485760,
+      "md5": "f5172691196aca622888c8e9e53eb55c"
+    },
+    {
+      "name": "tom-and-jerry-in-house-trap-usa.zip.part008",
+      "size": 9183092,
+      "md5": "76eab0087eb5df0489cea0642e54d74d"
+    }
+  ]
+}
