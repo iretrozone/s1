@@ -1,0 +1,326 @@
+{
+  "name": "Twisted Metal 4 (USA) (Rev 1)",
+  "system": "psx",
+  "file": "twisted-metal-4-usa-rev-1.zip",
+  "size": 659608053,
+  "md5": "7bc96f017711f79b38f563951a276c56",
+  "uncompressedSize": 747367298,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part000",
+      "size": 10485760,
+      "md5": "289e93f38580544febec354fac979ace"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part001",
+      "size": 10485760,
+      "md5": "4eb17a47196f5a058b35b81ec2f2b719"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part002",
+      "size": 10485760,
+      "md5": "34b1894a1e5d8e382e8d1a1b2cd1a7a9"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part003",
+      "size": 10485760,
+      "md5": "19a83aeb35d3212bd14024a5e68ca2b5"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part004",
+      "size": 10485760,
+      "md5": "319ec8a55314f67b0f1ff73830dc6625"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part005",
+      "size": 10485760,
+      "md5": "8440dc85e999b62a6ad7e42ecfb9df2d"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part006",
+      "size": 10485760,
+      "md5": "5a9b2d43affec17e07550263b5730425"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part007",
+      "size": 10485760,
+      "md5": "d6940b504bdda1d6809bcc7040caa9db"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part008",
+      "size": 10485760,
+      "md5": "31d08d5799fbc5dfe175cf392aaf1351"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part009",
+      "size": 10485760,
+      "md5": "5701646f0a3cd68f8e490f21ccec8a82"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part010",
+      "size": 10485760,
+      "md5": "3440217319f08ed59a5b127409786eda"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part011",
+      "size": 10485760,
+      "md5": "1899c221c739983045582b2d14c28b21"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part012",
+      "size": 10485760,
+      "md5": "cee34f663c2955ad38c84c712ae47151"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part013",
+      "size": 10485760,
+      "md5": "c932977eccde2b18f4ff68a4fb87d611"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part014",
+      "size": 10485760,
+      "md5": "988edf2f59cdeb174948497048ce24ca"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part015",
+      "size": 10485760,
+      "md5": "e5e5ff623b455791a0bdf9af51ce510f"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part016",
+      "size": 10485760,
+      "md5": "83fef28ae6e3eeec576759cfce45b90d"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part017",
+      "size": 10485760,
+      "md5": "289fe187dadf9bd8fac8a6500b378f47"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part018",
+      "size": 10485760,
+      "md5": "b05cfe055bb2ab4b5b4b625f4a421d3a"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part019",
+      "size": 10485760,
+      "md5": "699d5b016480062f3274d5368d8b2586"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part020",
+      "size": 10485760,
+      "md5": "8a75415dcfa5b3c6eb9bab42a57dc3dd"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part021",
+      "size": 10485760,
+      "md5": "41874c641876d5cba7802a08a85709f6"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part022",
+      "size": 10485760,
+      "md5": "25b217df98072a14704a917674c6927c"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part023",
+      "size": 10485760,
+      "md5": "3f0e4d02ba8da228ece8a91d334f0444"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part024",
+      "size": 10485760,
+      "md5": "e57d032358ca052dc4845942d0d49e60"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part025",
+      "size": 10485760,
+      "md5": "baf9e2f38c2c0f57120ce9adbc6078d0"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part026",
+      "size": 10485760,
+      "md5": "bdd9b0eb7c40ce7bc8c26ef46ba52341"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part027",
+      "size": 10485760,
+      "md5": "e934bdbc46adbebca2e17695192abe8d"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part028",
+      "size": 10485760,
+      "md5": "5fe04db2b05c1f4c55fceb715ef316a3"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part029",
+      "size": 10485760,
+      "md5": "9883b08f5d1798eff8a9c398a797d209"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part030",
+      "size": 10485760,
+      "md5": "dc37ec54d10ab36521ff837d81221882"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part031",
+      "size": 10485760,
+      "md5": "f83f581d4e810822a7fb74a082aa2f69"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part032",
+      "size": 10485760,
+      "md5": "e2086024270455babb75e72ffe8f1de1"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part033",
+      "size": 10485760,
+      "md5": "abcb42bb08a8e0455afaf3a873ca06bc"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part034",
+      "size": 10485760,
+      "md5": "84e61dc753f3bee5fa51525cd7858152"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part035",
+      "size": 10485760,
+      "md5": "271a55959e9036620e84fa1c7efd5a77"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part036",
+      "size": 10485760,
+      "md5": "25b38697543d0e7a9660f263aad27d4d"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part037",
+      "size": 10485760,
+      "md5": "ec7bd825523945f2f45e0d17945107f3"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part038",
+      "size": 10485760,
+      "md5": "8718e5668e5caef6194dd46bbfd8841d"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part039",
+      "size": 10485760,
+      "md5": "eb7b48ec75f8ab74843b006f35135dc8"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part040",
+      "size": 10485760,
+      "md5": "1014961245f626a22249c1bcb7af6a78"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part041",
+      "size": 10485760,
+      "md5": "2c7b11739f9582f0b8fc261d81b552f6"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part042",
+      "size": 10485760,
+      "md5": "0f888ea3b324eefa4627788c8fcd8307"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part043",
+      "size": 10485760,
+      "md5": "970d7b5cc972fc514673efda3567106d"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part044",
+      "size": 10485760,
+      "md5": "a41e0e449f62b3f10aaeeb8d34b212a0"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part045",
+      "size": 10485760,
+      "md5": "8c4b11271242d73ba272547de95c47d7"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part046",
+      "size": 10485760,
+      "md5": "1e1a76284e354058ad4f7c3747379f3e"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part047",
+      "size": 10485760,
+      "md5": "be06235c0bfcb48e8920609000b87ec7"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part048",
+      "size": 10485760,
+      "md5": "36ba6473160456bf0be3bad82a9b6c04"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part049",
+      "size": 10485760,
+      "md5": "57cf3107d7dad32eb365a3bfff3885c2"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part050",
+      "size": 10485760,
+      "md5": "4dec66af1d7b82c505540087200b8482"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part051",
+      "size": 10485760,
+      "md5": "771e6b31cdd43c615d2484f472ee37de"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part052",
+      "size": 10485760,
+      "md5": "2c0662007d0cdeccc913985cbee11d09"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part053",
+      "size": 10485760,
+      "md5": "b270b1f9e0dfdea4ceaba870e61de39e"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part054",
+      "size": 10485760,
+      "md5": "b1734f29d2e6c7c24b7adf23098db422"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part055",
+      "size": 10485760,
+      "md5": "1ff191c5bff6232be7f4b17e70d34fc9"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part056",
+      "size": 10485760,
+      "md5": "f48d1828b0828df023d257a3264e9d30"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part057",
+      "size": 10485760,
+      "md5": "970962a7e589888aadf92513255444b9"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part058",
+      "size": 10485760,
+      "md5": "8e7073387e996ab6af5078f77785f9cc"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part059",
+      "size": 10485760,
+      "md5": "02bcbbd1e4008cbcbd0bdb4ced283492"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part060",
+      "size": 10485760,
+      "md5": "f0cf941a40c6e513f85fecaeffdcc9cd"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part061",
+      "size": 10485760,
+      "md5": "c1e067d0f0a80e01db06e6782f9bb072"
+    },
+    {
+      "name": "twisted-metal-4-usa-rev-1.zip.part062",
+      "size": 9490933,
+      "md5": "4d7bc829947d36fca4339da44e351c11"
+    }
+  ]
+}
