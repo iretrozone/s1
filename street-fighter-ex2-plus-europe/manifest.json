@@ -1,0 +1,116 @@
+{
+  "name": "Street Fighter EX2 Plus (Europe)",
+  "system": "psx",
+  "file": "street-fighter-ex2-plus-europe.zip",
+  "size": 214180802,
+  "md5": "5ed6eac44ba3ea3e2a7c13696183f18e",
+  "uncompressedSize": 447303458,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part000",
+      "size": 10485760,
+      "md5": "375a5c0ea7326c019946eef7780dd08b"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part001",
+      "size": 10485760,
+      "md5": "f5a1e4692fb3391429eae6d45524187b"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part002",
+      "size": 10485760,
+      "md5": "e57ca67299043eba2b6d3a43ab722e69"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part003",
+      "size": 10485760,
+      "md5": "5cb39ec4aaaab6ad75f3a2b2f2fa5505"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part004",
+      "size": 10485760,
+      "md5": "a1c279baf62067c0d72936c1ebd2897a"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part005",
+      "size": 10485760,
+      "md5": "d210f43e474d5f9f1fe79ece368b9951"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part006",
+      "size": 10485760,
+      "md5": "f67701b4be6d4006cf32efad7fd5f5a5"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part007",
+      "size": 10485760,
+      "md5": "fbdc2e62b4856cfdc6e7832dda6c8dfb"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part008",
+      "size": 10485760,
+      "md5": "7610d4f625de0ffca467400235eef279"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part009",
+      "size": 10485760,
+      "md5": "f05e71f223a54144cbedb3ef2025bfba"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part010",
+      "size": 10485760,
+      "md5": "0be53be8e155dd6947c42221befb972b"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part011",
+      "size": 10485760,
+      "md5": "5fbfd7eddb22c71f916f09d8c9b64fdd"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part012",
+      "size": 10485760,
+      "md5": "57d263d057c240eeecef98f3c19d6fd8"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part013",
+      "size": 10485760,
+      "md5": "2e13586052b22ccc57d3ecabd4e2c492"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part014",
+      "size": 10485760,
+      "md5": "2911609e3c756e0432f28b3ad46ca1f1"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part015",
+      "size": 10485760,
+      "md5": "a767d9209d30a11077be7bda5ced281b"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part016",
+      "size": 10485760,
+      "md5": "e86b26097b0d640e1ede22224b4f23ca"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part017",
+      "size": 10485760,
+      "md5": "2933af31b4fa8c8de617e36572ed3893"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part018",
+      "size": 10485760,
+      "md5": "03fe20053d7fd6a1deb62541d2dbca2c"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part019",
+      "size": 10485760,
+      "md5": "10a20156ac5295aa802a0bc4fa8ea0ad"
+    },
+    {
+      "name": "street-fighter-ex2-plus-europe.zip.part020",
+      "size": 4465602,
+      "md5": "efed68ed2328764af74bfa883119c5be"
+    }
+  ]
+}
