@@ -1,0 +1,106 @@
+{
+  "name": "Resident Evil - Survivor (USA)",
+  "system": "psx",
+  "file": "resident-evil-survivor-usa.zip",
+  "size": 188960081,
+  "md5": "3c2670e00c429afba403411e61c58d25",
+  "uncompressedSize": 425730912,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "resident-evil-survivor-usa.zip.part000",
+      "size": 10485760,
+      "md5": "99c00ddabdc74bb4c4741ccc683cfc4b"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part001",
+      "size": 10485760,
+      "md5": "9c4bf20c7b7a073253775168680cf7f2"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part002",
+      "size": 10485760,
+      "md5": "c1d0288d17f968b6869e57631503f69d"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part003",
+      "size": 10485760,
+      "md5": "42b712a7c1950403c529225e7494fc1f"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part004",
+      "size": 10485760,
+      "md5": "4ab8856e200ed515292ce8b9be187f47"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part005",
+      "size": 10485760,
+      "md5": "f72bfe2e236f26c898d4d0ccb06956c1"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part006",
+      "size": 10485760,
+      "md5": "72187603ee3e56f1cf40fd6c1198c5cf"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part007",
+      "size": 10485760,
+      "md5": "ffdb41d943d6315babd6000e0490e536"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part008",
+      "size": 10485760,
+      "md5": "f25e49592bf7d53cea145db72cdd4756"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part009",
+      "size": 10485760,
+      "md5": "8f72ec389bcbb28a3604798ef157670d"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part010",
+      "size": 10485760,
+      "md5": "576d88aa78a02d30d1a68f601d4c0558"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part011",
+      "size": 10485760,
+      "md5": "0d5bb810d6f511ba917397d2d4068fda"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part012",
+      "size": 10485760,
+      "md5": "6009c2171a4eb4b29217ba36f1f0f16d"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part013",
+      "size": 10485760,
+      "md5": "22d96378c01385751c0b79bd8f2b0793"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part014",
+      "size": 10485760,
+      "md5": "d7c4c8abd40c1c7d5039e858c9144882"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part015",
+      "size": 10485760,
+      "md5": "93ad34ebd3428e6fd4a0992e1075851f"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part016",
+      "size": 10485760,
+      "md5": "615c574ac6a2562075bd1f1065273958"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part017",
+      "size": 10485760,
+      "md5": "ccd0e6b84ae7f2fe805e8194b564026e"
+    },
+    {
+      "name": "resident-evil-survivor-usa.zip.part018",
+      "size": 216401,
+      "md5": "eccea4cf9e8d7143b528ef2868039b16"
+    }
+  ]
+}
